@@ -10,6 +10,8 @@
      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali-Linux&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">Tools that I've used at least once</p>
 <p align="center">
