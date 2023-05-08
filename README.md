@@ -1,17 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEHYEON%20Github&fontSize=90)
 
+<!--
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">Techs that I've used at least once</p>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-    <!--<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white"/></a>&nbsp -->
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white"/></a>&nbsp
      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp
 </p>
+-->
 <!--
 <p align="center">Tools that I've used at least once</p>
 <p align="center">
@@ -25,6 +27,7 @@
     <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white"/></a>&nbsp
 </p> -->
 
+<!--
 <h2 align="center">📚 GitHub Activity</h2>
 <table>
     <tr>
@@ -35,6 +38,7 @@
         <td align="center"><a href="https://github.com/bboxeeee#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bboxeeee&theme=default"/></a><a href="https://github.com/bboxeeee#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bboxeeee&theme=tokyonight"/></a></td>
     </tr>
 </table>
+-->
 
 <h2 align="center">💡 Information</h2>
 <p align="center">
